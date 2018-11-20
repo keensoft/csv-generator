@@ -21,8 +21,8 @@ El orden de los caracteres es fijo para el prefijo `PPP` al inicio de la cadena 
 
 Ejemplos
  
-* `PPPIIIIIIIHHHHHHHHHHHHHHHHHHHHHR` para R=0 y un vector aleatorio `(0,1,2,3,4,5,6,7)`
-* `PPPIHIHIHIHIHIHIHHHHHHHHHHHHHHHR` para R=28 y un vector aleatorio `(0,2,4,6,8,10,12,14)`
+* `PPPIIIIIIIHHHHHHHHHHHHHHHHHHHHHR` para un vector aleatorio `(0,1,2,3,4,5,6,7)`
+* `PPPIHIHIHIHIHIHIHHHHHHHHHHHHHHHR` para un vector aleatorio `(0,2,4,6,8,10,12,14)`
 
 **Licencia**
 El código es licenciado bajo [LGPL v3.0](http://www.gnu.org/licenses/lgpl-3.0.html). 
